@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body {
+    text-align: center; 
+
+    background-color rgb(255, 255, 255);
+}
+
+.head { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    background: #ffa125;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    
+}
+
+.box {
+    margin-top: 5vh;
+    font-display: center ;
+}
+.navbar {
+    display: flex;
+    margin-right: 10px;
+   
+}
+.logo {
+    margin-left: 30px;
+    
+}
+
+.logo a {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 50px; 
+}
+
+.navbar a {
+   
+    display: block;
+    padding: 20px ;
+    color: #ffffff;
+  
+
+    text-decoration: none;
+    text-transform: uppercase;
+   
+    font-size: 35px;
+}
+
+.navbar a:hover {
+    
+    background: #581515;
+
+
+}
+
+.header {
+    
+    justify-content: center;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: Center;
+ 
+}
+
+
+.header {
+ 
+    height: 40vh !important;
+ 
+    background: url(Pizza.png); 
+    background-size: 100vh}
+
+.title {
+    
+    margin-bottom: 15px;
+    font-size: 70px;
+    font-weight: 150;
+    text-transform: uppercase;
+    
+}
+
+
+.Desarrollo {
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    font-size: 50px;
+}
+
+.solomargen {
+    justify-content: center;
+    margin-bottom: 15vh;
+ }
+
+.btn {
+    
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 50px;
+    border: 2px solid #000000; 
+    color: #000;
+    text-decoration: none;
+  
+}
+
+.Acabado {
+  
+    background: #FF6106;
+    width: 100%
+}
+    
+.Acabado a:hover {
+    background: #581515;
+
+}
+    
+.btn {
+    
+    color: #52AA24;
+}
+
+.numero {
+    Height: 2vh
+  
+
+ }
+
+ 
+.Contain {
+
+    justify-content: center;
+}
+
+.Descripción {
+    
+font-size: 30px;
+height: 15vh
+}
+
+.Materia {
+    font-size: 20px;
+    color:#000000
+    
+   
+}
+ .LOGOCARMELA {
+
+imag
